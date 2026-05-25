@@ -75,9 +75,7 @@ const lucas = {
 
 | Proyecto | Tecnologías | Estado |
 |----------|-------------|--------|
-| 🛒 *Próximamente* | React + Laravel + MySQL | 🔨 En desarrollo |
-| 📋 *Próximamente* | Spring Boot + Angular | 🔜 Planificado |
-| 🎨 *Próximamente* | HTML + CSS + JS Vanilla | 🔜 Planificado |
+| 🛒 *Próximamente* | Angular + Laravel + MySQL | 🔨 En desarrollo |
 
 ---
 
